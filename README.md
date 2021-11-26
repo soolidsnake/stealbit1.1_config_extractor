@@ -1,7 +1,7 @@
 ## StealBit1.1 and earlier scripts
 
-- Use strings_decryptor.py to extract RC4 encrypted strings from a StealBit1.1 sample.
-- Use config_extractor.py to extract encrypted configuration(ID and C2s) of a StealBit1.1 sample.
+- Use strings_decryptor.py to extract RC4 encrypted strings from a StealBit1.1 sample(s).
+- Use config_extractor.py to extract encrypted configuration(ID and C2s) of a StealBit1.1 sample(s).
 
 
 Tested on the following samples:
